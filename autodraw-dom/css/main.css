@@ -1,0 +1,32 @@
+body {
+  font-family: courier;
+  font-size: 4px;
+}
+body span {
+  background-color: #fff;
+  color: #fff;
+}
+body .black {
+  background-color: #000;
+  color: #000;
+}
+body .white {
+  background-color: #fff;
+  color: #fff;
+}
+body .gray {
+  background-color: #808080;
+  color: #808080;
+}
+body .lightgray {
+  background-color: #d3d3d3;
+  color: #d3d3d3;
+}
+body .lightblue {
+  background-color: #2dd0ff;
+  color: #2dd0ff;
+}
+body .blue {
+  background-color: #008cf8;
+  color: #008cf8;
+}
