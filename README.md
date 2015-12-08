@@ -6,6 +6,8 @@
 ##autodraw-dom
 	makes usage of large array of <span>s and jQ
 
+http://mstratiev.github.io/autodraw/autodraw-dom/index.htm
+
 ##autodraw-canvas
 	(soon)
 
